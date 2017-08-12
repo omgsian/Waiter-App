@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidWear</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_order_ready">order_ready</string>
+    <string name="title_activity_mehmeh">mehmeh</string>
+
+    <!-- String values we are using in the app itself -->
+    <string name="tick">✓</string>
+    <string name="title">Table Number</string>
+    <string name="desc">Description!</string>
+    <string name="water">Water refill wanted</string>
+    <string name="menu">Menu wanted</string>
+    <string name="orderReadyTitle">Order Ready</string>
+    <string name="orderReady">Send Order 5 to Table 10</string>
+    <string name="noticeOfCancellationTitle">Notice</string>
+    <string name="noticeOfCancellation">Request for Table 10 cancelled</string>
+    <string name="others">Others</string>
+    <string name="bill">Bill called</string>
+    <string name="cancel">Request cancelled</string>
+    <string name="title_activity_menu_wanted">menu_wanted</string>
+    <string name="title_activity_other_request">otherRequest</string>
+    <string name="title_activity_cancel_request">CancelRequest</string>
+
+</resources>
